@@ -1,0 +1,13 @@
+{
+    "name": "ilya5445/5z",
+    "autoload": {
+        "psr-4": {
+            "API\\": "src/"
+        }
+    },
+    "require": {
+        "bramus/router": "~1.6",
+        "firebase/php-jwt": "^6.3",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
